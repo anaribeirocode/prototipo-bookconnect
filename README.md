@@ -2,6 +2,7 @@
 
 SOBRE O BOOKCONNECT
 Um projeto feito diretamente do figma, apresentando um protótipo de um aplicativo mobile de compra de livros e interação entre os usuários.
+Prototipagem realizada por mim com a colaboração do meu time(grupo) da faculdade.
 
 ÍNDICE
 - Pré-visualização
