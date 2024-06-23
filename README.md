@@ -18,9 +18,9 @@ Interface amigável e responsiva,
 Dinamismo;
 
 PASSOS PARA VISUALIZAR:
-Acesse este link do Figma
-Clique em "Play" para iniciar o modo de apresentação
-Aproveite a interatividade
+Acesse este link do Figma, 
+Clique em "Play" para iniciar o modo de apresentação, 
+Aproveite a interatividade;
 
 CONTATO
 Para dúvidas ou sugestões, entre em contato através de anajuliaribeiro615@gmail.com
