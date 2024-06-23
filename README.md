@@ -12,10 +12,10 @@ Um projeto feito diretamente do figma, apresentando um protótipo de um aplicati
 [PRÉ-VISUALIZAÇÃO](https://www.figma.com/proto/N2b0cPYQXFbGNJJO93sf5z/BookConnect?node-id=0-1&t=c6iD7mfnM6zZxZ1n-1)
 
 FUNCIONALIDADES
-Navegação intuitiva entre telas
-Experiência do usuário
-Interface amigável e responsiva
-Dinamismo
+Navegação intuitiva entre telas, 
+Experiência do usuário, 
+Interface amigável e responsiva, 
+Dinamismo;
 
 PASSOS PARA VISUALIZAR:
 Acesse este link do Figma
