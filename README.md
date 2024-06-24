@@ -5,7 +5,7 @@ Um projeto feito diretamente do figma, apresentando um protótipo de um aplicati
 Prototipagem realizada por mim com a colaboração do meu time(grupo) da faculdade.
 
 ÍNDICE
-- Pré-visualização
+- Visualização do Projeto
 - Funcionalidades
 - Passos para visualizar
 - Contato
